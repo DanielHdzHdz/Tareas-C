@@ -4,4 +4,4 @@ project(Tareas_C C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Tareas_C
-        "Actividad complementaria 2 unidad 3.c")
+        "Unidad3_Actividad_Complementaria2.c")
