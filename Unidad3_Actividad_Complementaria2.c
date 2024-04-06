@@ -8,6 +8,7 @@ int main(void) {
     area = (base * altura) / 2;
 
 
+
     printf("El area del triangulo es: %g \n", area);
 
 //Programador: Daniel Hernandez Hernandez
