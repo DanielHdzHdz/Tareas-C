@@ -55,7 +55,7 @@ int main() {
 
             getchar();
     }
-    // Programador: Daniel Hernandez Hernandez
+    // Programador: Daniel Hernandez
     // Fecha de creacion: 05/04/2024
     //programa para calcular el area de un triangulo, cuadrado, rectangulo y trapecio
 
