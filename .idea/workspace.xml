@@ -16,7 +16,12 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c536d5c3-56d6-4d69-977a-aea251a6e388" name="Changes" comment="" />
+    <list default="true" id="c536d5c3-56d6-4d69-977a-aea251a6e388" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Unidad5_Actividad_Complementaria2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tareas-C.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +46,12 @@
     &quot;accountId&quot;: &quot;0391e81c-e296-4e4e-b7cb-023fc813b3c3&quot;
   }
 }</component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -54,6 +65,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.Unidad5_Actividad_Complementaria2.c.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -61,6 +73,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "Unidad5__Actividad__Complementaria2",
+    "last_opened_file_path": "C:/Users/Rodan/Documents/GitHub/Tareas-C/Unidad5_Actividad_Complementaria2.c",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +89,19 @@
     ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unidad5_Actividad_Complementaria2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tareas-C" TARGET_NAME="Unidad5_Actividad_Complementaria2.c" CONFIG_NAME="Unidad5_Actividad_Complementaria2.c">
+      <option name="sourceFile" value="C:\Users\Rodan\Documents\GitHub\Tareas-C\Unidad5_Actividad_Complementaria2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,6 +114,7 @@
       <workItem from="1712118406273" duration="1146000" />
       <workItem from="1714716744792" duration="226000" />
       <workItem from="1714717003977" duration="1307000" />
+      <workItem from="1714719170581" duration="815000" />
     </task>
     <servers />
   </component>
