@@ -20,5 +20,5 @@ int main(void) {
     return 0;
     // Programador: Daniel Hernandez Hernandez
     // Fecha: 03/05/2024
-    // Programa para calcular la suma de los cuadrados de los primeros n numeros naturales
+    // Programa para generar una sucesion numerica apartir de una formula matematica
 }
