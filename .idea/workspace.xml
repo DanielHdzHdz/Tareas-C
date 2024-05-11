@@ -17,10 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c536d5c3-56d6-4d69-977a-aea251a6e388" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Unidad6_Actividad2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Tareas-C.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad6_Actividad2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad6_Actividad2.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +65,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.Unidad 6 Actividad 2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -117,7 +115,7 @@
       <workItem from="1712118406273" duration="1146000" />
       <workItem from="1714716744792" duration="226000" />
       <workItem from="1714717003977" duration="1235000" />
-      <workItem from="1715402765764" duration="243000" />
+      <workItem from="1715402765764" duration="684000" />
     </task>
     <servers />
   </component>
