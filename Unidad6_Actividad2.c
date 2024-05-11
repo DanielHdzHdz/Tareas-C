@@ -48,19 +48,19 @@ int main() {
             if (dia < 21) {
                 printf("Tu signo zodiacal es Tauro.\n");
             } else {
-                printf("Tu signo zodiacal es Géminis.\n");
+                printf("Tu signo zodiacal es Geminis.\n");
             }
             break;
         case 6:
             if (dia < 21) {
-                printf("Tu signo zodiacal es Géminis.\n");
+                printf("Tu signo zodiacal es Geminis.\n");
             } else {
-                printf("Tu signo zodiacal es Cáncer.\n");
+                printf("Tu signo zodiacal es Cancer.\n");
             }
             break;
         case 7:
             if (dia < 23) {
-                printf("Tu signo zodiacal es Cáncer.\n");
+                printf("Tu signo zodiacal es Cancer.\n");
             } else {
                 printf("Tu signo zodiacal es Leo.\n");
             }
