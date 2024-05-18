@@ -24,6 +24,6 @@ int main() {
 
     return 0;
 // Programador: Daniel Hernandez Hernandez
-// Fecha: 10/05/2024
+// Fecha: 17/05/2024
 // Programa para calcular la suma de los primeros n numeros enteros positivos
 }
